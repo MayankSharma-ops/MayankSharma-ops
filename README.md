@@ -24,8 +24,6 @@ Currently exploring opportunities at product-first companies where I can contrib
 
 </details>
 
----
-
 <details>
   <summary>🛠 Skills & Tech Stack</summary>
   <br/>
