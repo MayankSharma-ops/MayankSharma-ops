@@ -12,13 +12,17 @@ Currently exploring opportunities at product-first companies where I can contrib
 
 ---
 
-### 🚀 Featured Projects
+<details>
+  <summary>🚀 Featured Projects</summary>
+  <br/>
 
 - **[NexChat](https://chat-app-self-phi-54.vercel.app)** — Real-time full-stack chat application
 - **AI Email Automation Platform** — SaaS with intelligent email workflows powered by Gemini API
 - **[AI Resume Analyzer Bot](https://t.me/Ai_CV_Resume_bot)** — Telegram bot for ATS scoring, feedback & DOCX generation (Python · Gemini API)
 - **SipUp** — React Native water tracker with XP gamification & companion plant (Expo · Zustand)
 - **[Portfolio](https://mayanksharma-dev.vercel.app/)** — Dark editorial aesthetic · Tailwind CSS · Framer Motion · GitHub Webhooks
+
+</details>
 
 ---
 
@@ -33,15 +37,6 @@ Currently exploring opportunities at product-first companies where I can contrib
   | **Backend** | Spring Boot, Node.js, Kafka, PostgreSQL, REST APIs |
   | **AI / ML** | Gemini API, LLM integration, RAG pipelines |
   | **Tools** | Git, Docker, Vercel, SMTP, Webhook design |
-
-</details>
-
-<details>
-  <summary>📜 Certifications & Programs</summary>
-  <br/>
-
-  - **[JP Morgan Chase](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_69c37860821133432950ea03_1774427422083_completion_certificate.pdf)** — Forage Virtual Experience (Java Spring Boot · Kafka)
-  - Actively pursuing cloud & data engineering certifications
 
 </details>
 
