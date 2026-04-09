@@ -17,7 +17,7 @@ Currently exploring opportunities at product-first companies where I can contrib
   <br/>
 
 - **[NexChat](https://chat-app-self-phi-54.vercel.app)** — Real-time full-stack chat application
-- **AI Email Automation Platform** — SaaS with intelligent email workflows powered by Gemini API
+- **[AI Email Automation Platform](https://ai-email-saas.vercel.app)** — SaaS with intelligent email workflows powered by Gemini API
 - **[AI Resume Analyzer Bot](https://t.me/Ai_CV_Resume_bot)** — Telegram bot for ATS scoring, feedback & DOCX generation (Python · Gemini API)
 - **SipUp** — React Native water tracker with XP gamification & companion plant (Expo · Zustand)
 - **[Portfolio](https://mayanksharma-dev.vercel.app/)** — Dark editorial aesthetic · Tailwind CSS · Framer Motion · GitHub Webhooks
@@ -31,18 +31,11 @@ Currently exploring opportunities at product-first companies where I can contrib
   | | |
   |---|---|
   | **Languages** | TypeScript, JavaScript, Java, Python |
-  | **Frontend** | React, Next.js 14, React Native, Tailwind CSS, Framer Motion |
-  | **Backend** | Spring Boot, Node.js, Kafka, PostgreSQL, REST APIs |
-  | **AI / ML** | Gemini API, LLM integration, RAG pipelines |
-  | **Tools** | Git, Docker, Vercel, SMTP, Webhook design |
-
-</details>
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MayankSharma-ops&show_icons=true&theme=dark&hide_border=true" />
-  </p>
+  | **Frontend** | React, Next.js 15, React Native (Expo), Tailwind CSS, Framer Motion |
+  | **Backend** | Node.js, Spring Boot, FastAPI, Kafka, REST APIs |
+  | **Database & ORM** | PostgreSQL, Prisma, Pinecone (Vector DB) |
+  | **AI / ML** | Gemini API, OpenAI API, LLM Integration, RAG Pipelines |
+  | **Auth & Payments** | Clerk, Razorpay, Stripe |
+  | **Tools & DevOps** | Git, Docker, Vercel, BullMQ, SMTP, Webhook Design |
 
 </details>
